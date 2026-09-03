@@ -14,7 +14,7 @@ This project simulates a decentralised infrastructure monitoring system designed
 - Python
 - Pandas, NumPy
 - Jupyter Notebook
-- Matplotlib / Plotly (if used)
+- Matplotlib / Plotly
 
 ## 🧠 Architecture
 The system simulates multiple nodes sending data to a decentralised processing layer where it is analysed to detect anomalies and performance issues.
